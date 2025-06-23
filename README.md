@@ -1,3 +1,4 @@
+Develop a React Admin Dashboard app with customizable themes, tables, charts, calendar, and Kanban board. Implement interactive features, seamless integration, and smooth user experience.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
