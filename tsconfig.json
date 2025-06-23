@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es2016",
+    "module": "commonjs",
+    "jsx": "react-jsx",                // ✅ Enables JSX
+    "esModuleInterop": true,
+    "strict": true,
+    "types": ["jest", "react"],       // ✅ Required for test + JSX
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true
+  }
+}
